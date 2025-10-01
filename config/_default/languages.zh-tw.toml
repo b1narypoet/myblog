@@ -1,0 +1,33 @@
+disabled = false
+languageCode = "zh-tw"
+languageName = "繁體中文"
+weight = 1
+title = "鰲山灣衝浪裡"
+
+[params]
+  displayName = "繁體中文"
+  isoCode = "zh"
+  rtl = false
+  dateFormat = "January 2 2006"
+  logo = "img/ocean.png"
+  #secondaryLogo = "img/secondary-logo.png"
+   description = "kevin's blog"
+   copyright = "© 2025 Kevin. Content licensed under CC BY-NC-SA 4.0."
+
+
+[params.author]
+name = "kevin"
+email = "huakevin@proton.me"
+image = "img/blowfish_logo.png"
+imageQuality = 96
+headline = "我知這世界，本如露水般短暫。然而，然而......"
+#bio = "A little bit about you"
+links = [
+     { email = "mailto:huakevin@proton.me?subject=Hello&body=I%20love%20your%20blog!" },
+     { github = "https://github.com/b1narypoet" },
+     { reddit = "https://reddit.com/user/thebinarypoet" },
+     { spotify = "https://open.spotify.com/user/31bk4bc4ytgz2c55a44lsgligiau" },
+     { steam = "https://steamcommunity.com/profiles/76561199181048174/" },
+     { telegram = "https://t.me/LoopQuark" },
+     { twitter = "https://twitter.com/thebinarypoetk" },
+   ]
